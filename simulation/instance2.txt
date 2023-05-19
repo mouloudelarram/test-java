@@ -1,0 +1,11 @@
+tauxReproductionSol = 0.3;
+chancePlanteEmpoisonnee = 0.9;
+tauxReproductionPlante = 0.4;
+tauxReproductionLapin = 0.8;
+tauxReproductionRenard = 0.7;
+nutritionMaxPlante = 30;
+santeInitialeLapin = 1200;
+santeInitialeRenard = 3;
+nombrePlantes = 15;
+nombreLapins = 20;
+nombreRenards = 3;
